@@ -11,6 +11,8 @@ function App() {
       <UsuarioId />
 
       <hr/>
+
+      <CrearAlumno />
     </>
   )
 }
